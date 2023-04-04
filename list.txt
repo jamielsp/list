@@ -33,6 +33,7 @@ come
 could
 day
 do
+secret.txt
 even
 find
 first
